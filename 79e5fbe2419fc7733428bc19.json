@@ -789,9 +789,9 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   "lives": [
     {
-      "name": "live",
+      "name": "直播",
       "type": 0,
-      "url": "https://dimaston.github.io/live.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zjcjb/cfg-4671b09b3c07/main/live_045d1f630863e35dbd298a98.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
