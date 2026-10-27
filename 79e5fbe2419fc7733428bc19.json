@@ -2,6 +2,36 @@
   "warningText": "修复版：仅保留可用站点，原129站中因jar失效剔除106个",
   "sites": [
     {
+      "key": "drpy_js_豆瓣",
+      "name": "🔥聚玩盒子4K",
+      "type": 3,
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
+    },
+    {
+      "key": "蚂蚁",
+      "name": "🐜┃蚂蚁┃4K",
+      "type": 3,
+      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/蚂蚁磁力.json"
+    },
+    {
+      "key": "yc",
+      "name": "🦊┃磁力┃4KHDR",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+    },
+    {
       "key": "量子资源",
       "name": "🥑┃量子┃资源",
       "type": 1,
@@ -26,29 +56,6 @@
         "爱情片",
         "喜剧片"
       ]
-    },
-    {
-      "key": "蚂蚁",
-      "name": "🐜┃蚂蚁┃4K",
-      "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
-      "api": "csp_XPathAli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/蚂蚁磁力.json"
-    },
-    {
-      "key": "yc",
-      "name": "🦊┃磁力┃4KHDR",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
     },
     {
       "key": "csp_非凡资源",
