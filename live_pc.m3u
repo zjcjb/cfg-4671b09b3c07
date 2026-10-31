@@ -301,7 +301,7 @@ http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" group-title="港澳台专区",凤凰卫视资讯台-2
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 tvg-name="tvbs" group-title="港澳台专区",tvbs
+#EXTINF:-1 tvg-name="TVBS NEWS" group-title="港澳台专区",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻" group-title="港澳台专区",中天新闻-1
 http://111.0.115.129:8081/live/000ztxw.m3u8
