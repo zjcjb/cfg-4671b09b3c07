@@ -1,60 +1,73 @@
-🛰 精简直播源 · 2026-10-30 · 央视/四大卫视/港澳台 · 每频道≤6条 · 4K>1080p>720p 排序
+🛰 精简直播源 · 2026-10-31 · 央视/四大卫视/港澳台/国外 · 每频道≤6条 · 4K>1080p>720p 排序
 
 央视频道,#genre#
-CCTV1,http://36.110.54.118:866/hls/1/index.m3u8#http://play.kankanlive.com/live/1698234869325962.m3u8#http://play.kankanlive.com/live/1661761962676984.m3u8
-CCTV2,http://112.92.129.95:9898/hls/19/index.m3u8#http://www.frankgb.cn:4022/udp/239.49.8.50:9802#http://183.11.239.36:808/hls/20/index.m3u8#http://222.213.105.65:7788/631780532#https://play.kankanlive.com/live/1698234898628961.m3u8
-CCTV3,http://112.46.85.60:8009/hls/3/index.m3u8#http://www.frankgb.cn:4022/udp/239.49.8.74:8000#http://112.92.129.95:9898/hls/20/index.m3u8#http://222.213.105.65:7788/624878271
-CCTV4,http://36.110.54.118:866/hls/4/index.m3u8#http://112.92.129.95:9898/hls/21/index.m3u8#http://183.11.239.36:808/hls/22/index.m3u8#http://www.ikerobot.com:1234/608807419#http://103.236.77.86:29824/608807419#http://222.213.105.65:7788/608807419
-CCTV5,http://183.129.255.66:8480/hls/5/index.m3u8#http://www.frankgb.cn:4022/udp/239.49.8.75:8000#http://112.92.129.95:9898/hls/22/index.m3u8#http://113.98.11.46:3000/641886683#http://183.11.239.36:808/hls/93/index.m3u8
-CCTV5+,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.129.255.66:8480/hls/6/index.m3u8#http://112.92.129.95:9898/hls/23/index.m3u8#http://www.ikerobot.com:1234/641886773
-CCTV6,http://112.92.129.95:9898/hls/24/index.m3u8#http://183.129.255.66:8480/hls/7/index.m3u8#http://222.213.105.65:7788/624878396
-CCTV7,http://183.129.255.66:8480/hls/8/index.m3u8#http://112.46.85.60:8009/hls/504/index.m3u8#http://8.138.7.223/tv/cctv7.m3u8#http://112.92.129.95:9898/hls/25/index.m3u8#http://www.ikerobot.com:1234/673168121
-CCTV8,http://112.92.129.95:9898/hls/26/index.m3u8#http://183.129.255.66:8480/hls/9/index.m3u8#http://112.46.85.60:8009/hls/8/index.m3u8#http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://www.frankgb.cn:4022/udp/239.49.8.77:8000#http://103.236.77.86:29824/624878356
-CCTV9,http://183.129.255.66:8480/hls/10/index.m3u8#http://222.213.105.65:7788/673168140#http://74.91.26.218:82/live/cctv9hd.m3u8#https://play.kankanlive.com/live/1698423397390920.m3u8#http://45.78.61.93:1234/673168140
-CCTV10,http://112.92.129.95:9898/hls/28/index.m3u8#http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.129.255.66:8480/hls/11/index.m3u8#http://www.frankgb.cn:4022/udp/239.49.8.54:9818#http://222.213.105.65:7788/624878405#https://play.kankanlive.com/live/1698423445959919.m3u8
+CCTV1,http://36.110.54.118:866/hls/1/index.m3u8#http://play.kankanlive.com/live/1698234869325962.m3u8#http://74.91.26.218:82/live/cctv1hd.m3u8#http://play.kankanlive.com/live/1661761962676984.m3u8
+CCTV2,http://www.frankgb.cn:4022/udp/239.49.8.50:9802#http://112.92.129.95:9898/hls/19/index.m3u8#http://222.213.105.65:7788/631780532#http://183.11.239.36:808/hls/20/index.m3u8#https://play.kankanlive.com/live/1698234898628961.m3u8
+CCTV3,http://www.frankgb.cn:4022/udp/239.49.8.74:8000#http://112.46.85.60:8009/hls/3/index.m3u8#http://112.92.129.95:9898/hls/20/index.m3u8#http://222.213.105.65:7788/624878271
+CCTV4,http://36.110.54.118:866/hls/4/index.m3u8#http://112.46.85.60:8009/hls/4/index.m3u8#http://222.213.105.65:7788/608807419#http://112.92.129.95:9898/hls/21/index.m3u8#http://103.236.77.86:29824/608807416#http://103.236.77.86:29824/608807419
+CCTV5,http://183.129.255.66:8480/hls/5/index.m3u8#http://www.frankgb.cn:4022/udp/239.49.8.75:8000#http://112.92.129.95:9898/hls/22/index.m3u8#http://113.98.11.46:3000/641886683
+CCTV5+,http://183.129.255.66:8480/hls/6/index.m3u8#http://www.ikerobot.com:1234/641886773#http://112.92.129.95:9898/hls/23/index.m3u8
+CCTV6,http://183.129.255.66:8480/hls/7/index.m3u8#http://112.92.129.95:9898/hls/24/index.m3u8#http://183.11.239.36:808/hls/94/index.m3u8#http://222.213.105.65:7788/624878396
+CCTV7,http://112.92.129.95:9898/hls/25/index.m3u8#http://183.129.255.66:8480/hls/8/index.m3u8#http://8.138.7.223/tv/cctv7.m3u8#http://112.46.85.60:8009/hls/504/index.m3u8#http://www.ikerobot.com:1234/673168121
+CCTV8,http://183.129.255.66:8480/hls/9/index.m3u8#http://112.46.85.60:8009/hls/8/index.m3u8#http://112.92.129.95:9898/hls/26/index.m3u8#http://www.frankgb.cn:4022/udp/239.49.8.77:8000#http://103.236.77.86:29824/624878356#http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://183.129.255.66:8480/hls/10/index.m3u8#https://play.kankanlive.com/live/1698423397390920.m3u8#http://74.91.26.218:82/live/cctv9hd.m3u8#http://222.213.105.65:7788/673168140#http://183.11.239.36:808/hls/27/index.m3u8#http://45.78.61.93:1234/673168140
+CCTV10,http://112.92.129.95:9898/hls/28/index.m3u8#http://www.frankgb.cn:4022/udp/239.49.8.54:9818#http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.129.255.66:8480/hls/11/index.m3u8#https://play.kankanlive.com/live/1698423445959919.m3u8#http://222.213.105.65:7788/624878405
 CCTV11,http://112.92.129.95:9898/hls/29/index.m3u8#http://113.98.11.46:3000/667987558#https://play.kankanlive.com/live/1698423476198918.m3u8
-CCTV12,http://112.46.85.60:8009/hls/507/index.m3u8#http://183.129.255.66:8480/hls/13/index.m3u8#http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0#https://play.kankanlive.com/live/1698423511884917.m3u8#http://103.236.77.86:29824/673168185#http://www.ikerobot.com:1234/673168185
-CCTV13,http://183.129.255.66:8480/hls/14/index.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://113.98.11.46:3000/608807423#http://59.39.89.130:60901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0#https://play.kankanlive.com/live/1698423543275916.m3u8#http://103.236.77.86:29824/608807423
-CCTV14,http://www.frankgb.cn:4022/udp/239.49.8.56:9826#http://222.213.105.65:7788/624878440#http://204.12.221.218:8181/3m1080p/cctv14.m3u8
-CCTV15,http://183.129.255.66:8480/hls/16/index.m3u8#http://gmxw.7766.org:808/hls/102/index.m3u8#http://222.213.105.65:7788/673168223#https://play.kankanlive.com/live/1698423607826914.m3u8#http://www.ikerobot.com:1234/673168223
-CCTV16,http://183.129.255.66:8480/hls/17/index.m3u8#http://112.92.129.95:9898/hls/127/index.m3u8#http://www.frankgb.cn:4022/udp/239.49.8.31:8000#http://183.11.239.36:808/hls/169/index.m3u8
-CCTV17,http://183.129.255.66:8480/hls/18/index.m3u8#http://112.92.129.95:9898/hls/34/index.m3u8#https://play.kankanlive.com/live/1698423272597921.m3u8#http://183.11.239.36:808/hls/35/index.m3u8
-CCTV-世界地理,http://107.150.60.122/live/sjdl.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl#http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-CCTV-兵器科技,http://192.151.150.154/live/gfjs.m3u8#http://107.150.60.122/live/gfjs.m3u8#https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub#http://192.151.150.154/live/wsjk.m3u8#http://107.150.60.122/live/wsjk.m3u8
-CCTV-央视台球,http://173.208.212.130:8181/720p/ystq.m3u8#http://207.56.13.146:81/cdnlive/ystq.m3u8#http://107.150.60.122/live/ystq.m3u8
-CCTV-央视文化精品,http://173.208.212.130:8181/720p/ysjp.m3u8#https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-CCTV-女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss#http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub#http://207.56.13.146:81/cdnlive/nxss.m3u8
-CCTV-怀旧剧场,http://198.204.228.26/live/hjjc.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc#http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
-CCTV-电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn#http://bztv.tvbus.cc:8081/cdnlive/dszn.m3u8#http://198.204.228.26/live/dszn.m3u8
-CCTV-第一剧场,http://198.204.228.26/live/dyjc.m3u8#http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub#http://bztv.tvbus.cc:8081/cdnlive/dyjc.m3u8
-CCTV-风云剧场,http://198.204.228.26/live/fyjc.m3u8#http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
-CCTV-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8#http://207.56.13.146:81/cdnlive/fyzq.m3u8#http://192.151.150.154/live/fyzq.m3u8
-CCTV-风云音乐,http://107.150.60.122/live/fyyy.m3u8#http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub#http://192.151.150.154/live/fyyy.m3u8
-CCTV-高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8#http://104.152.209.49:8181/720p/gefwq.m3u8#http://107.150.60.122/live/gefwq.m3u8
-CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub#http://198.204.228.26/live/cetv1hd.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
-CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8#https://0472.org/hls/cgtn.m3u8
+CCTV12,http://183.129.255.66:8480/hls/13/index.m3u8#http://112.46.85.60:8009/hls/507/index.m3u8#http://www.ikerobot.com:1234/673168185#http://103.236.77.86:29824/673168185#https://play.kankanlive.com/live/1698423511884917.m3u8
+CCTV13,http://183.129.255.66:8480/hls/14/index.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://59.39.89.130:60901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0#http://113.98.11.46:3000/608807423#http://103.236.77.86:29824/608807423#https://play.kankanlive.com/live/1698423543275916.m3u8
+CCTV14,http://www.frankgb.cn:4022/udp/239.49.8.56:9826#http://222.213.105.65:7788/624878440#http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
+CCTV15,http://183.129.255.66:8480/hls/16/index.m3u8#http://gmxw.7766.org:808/hls/102/index.m3u8#http://www.ikerobot.com:1234/673168223#http://222.213.105.65:7788/673168223#https://play.kankanlive.com/live/1698423607826914.m3u8
+CCTV16,http://183.129.255.66:8480/hls/17/index.m3u8#http://www.frankgb.cn:4022/udp/239.49.8.31:8000#http://112.92.129.95:9898/hls/127/index.m3u8#http://183.11.239.36:808/hls/169/index.m3u8
+CCTV17,http://183.129.255.66:8480/hls/18/index.m3u8#http://112.92.129.95:9898/hls/34/index.m3u8#https://play.kankanlive.com/live/1698423272597921.m3u8
+CCTV-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl#http://107.150.60.122/live/sjdl.m3u8
+CCTV-兵器科技,http://192.151.150.154/live/gfjs.m3u8#https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://173.208.212.130:8181/720p/gfjs.m3u8
+CCTV-卫生健康,http://173.208.212.130:8181/720p/wsjk.m3u8#http://192.151.150.154/live/wsjk.m3u8#http://107.150.60.122/live/wsjk.m3u8
+CCTV-央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8#http://192.151.150.154/live/ystq.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
+CCTV-央视文化精品,http://173.208.212.130:8181/720p/ysjp.m3u8#https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://107.150.60.122/live/ysjp.m3u8
+CCTV-女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub#http://192.151.150.154/live/nxss.m3u8#http://207.56.13.146:81/cdnlive/nxss.m3u8
+CCTV-怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc#http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
+CCTV-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn#http://198.204.228.26/live/dszn.m3u8
+CCTV-第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc#https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://198.204.228.26/live/dyjc.m3u8
+CCTV-风云剧场,http://107.150.60.122/live/fyjc.m3u8#http://192.151.150.154/live/fyjc.m3u8#http://198.204.228.26/live/fyjc.m3u8
+CCTV-风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq#http://173.208.212.130:8181/720p/fyzq.m3u8#http://207.56.13.146:81/cdnlive/fyzq.m3u8
+CCTV-风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy#http://207.56.13.146:81/cdnlive/fyyy.m3u8#https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8#http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub#http://107.150.60.122/live/gefwq.m3u8
+CETV-1,http://120.76.248.139/live/bfgd/4200000135.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd#http://198.204.228.26/live/cetv1hd.m3u8
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8#https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#https://0472.org/hls/cgtn.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8#https://0472.org/hls/cgtnf.m3u8
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 卫视频道,#genre#
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8#http://218.104.239.114:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://112.46.85.60:8009/hls/33/index.m3u8#http://113.98.11.46:3000/623899368#http://107.150.60.122/live/jswshd.m3u8
+江苏卫视,http://113.98.11.46:3000/623899368#http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub#http://120.76.248.139/live/bfgd/4200000085.m3u8
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8#https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8#http://www.yao87.com:4022/udp/239.76.246.101:1234
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8#https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8#http://www.yao87.com:4022/udp/239.76.246.101:1234
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 港澳台专区,#genre#
 凤凰卫视中文台,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0#http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰卫视资讯台,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
-中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
+中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8#http://iactive-clink.com:8081/live/111ztxw.m3u8
 中视,http://211.72.174.95:8113/0.ts
 公视,http://211.72.174.95:8116/0.ts
 华视,http://211.72.174.95:8114/0.ts
 台视,http://211.72.174.95:8112/0.ts
+无线新闻,http://iactive-clink.com:8081/live/yifaTV-125.m3u8
 民视,http://211.72.174.95:8115/0.ts
 民视新闻,http://211.72.174.95:8117/0.ts
-经典香港电影,http://mg.cttv.vip/625703337#http://45.78.61.93:1234/625703337
+经典香港电影,http://45.78.61.93:1234/625703337#http://mg.cttv.vip/625703337
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+国外频道,#genre#
+ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+CBS News,https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master_2.m3u8
+CNA (新加坡),https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist480p.m3u8
+CNBC,https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist1080_p.m3u8
+CNN,https://tvsen6.aynaott.com/cnn/tracks-v1a1/mono.ts.m3u8
+CNN International,https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/22b49c84-204b-4d54-a704-71a94eef5d57/0.m3u8
+CNN Originals,https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg01918-cnnus-cnnoriginals-vizious/cb553d1f7c6c648a93d43e60d6ef42a1dc2407fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d585677af7fc76c70879e26fd36612e6c2dde87b778de87110fa2ab576875ee2f0150fc0e05ad7a017bd5ec5a3b843bb46b0c5cbd5a391861dbff4da82007c2840c8b2c34dfa98837247c5b099e400feda70bbeaab05c468b68a7e2184a917d279bb87df12bcfe5aae628e051b305a94dc3c3d2b4e922f3e5b1f87d9a804e6d79317498fa19d9a90ff2b2120e48c8b3fc118657c783ea0fc320d9124d60d8b5a69e76f61281ba2d806e30b3019175835abf46a513aeed42a1e2ee9112017188cd55743ffba58184ff273cb462bbfbb29d474ad0b6356857c568ef27291399e98441d7945bc5e063a6bc7b1235c5de14c9cdf2aee0b284469965f9c6f2992f4b01365755c80ef4e801b14efc76acdc1c28583f25f4e035cee4810ed003e06276e9b251c979b261de4e80d142c63c5c2cd9c0/80/1920x1080_4715744/index.m3u8
+Fox News (LiveNOW),https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
+NBC News NOW,https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/4388020a-ad19-4050-a1bd-b2b3b8b27ebe/2.m3u8#https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/20514720-3513-491a-aa99-659778fb4ed5/3.m3u8
