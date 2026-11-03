@@ -61,6 +61,9 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 民视新闻,http://211.72.174.95:8117/0.ts
 经典香港电影,http://mg.cttv.vip/625703337
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+原住民电视台,https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 国外频道,#genre#
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 CBS News,https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master_2.m3u8
