@@ -146,6 +146,22 @@
       "filterable": 0
     },
     {
+      "key": "zhizhen",
+      "name": "📂至臻┃4K极速",
+      "type": 3,
+      "api": "csp_PantaAmns",
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://zhizhenpan.fun"
+        ]
+      }
+    },
+    {
       "key": "索尼",
       "name": "🛸┃索尼┃2K",
       "type": 1,
