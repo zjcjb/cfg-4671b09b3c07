@@ -1,5 +1,5 @@
 {
-  "warningText": "维护版 2026-10-30：剔除失效8站(磁力4KHDR/玉米/49Z/外国影视/搜糊/影图/轻简/歌手MV)，新增玩偶4K/原盘4K/花卷4K(王二小jar网盘原盘)",
+  "warningText": "维护版 2026-11-04：新增4站(腾讯2K/芒果2K/茶杯狐2K/韩剧看看，拆自七月影视，已验可达)。cuncu.qyys.top 为七月单点中转，挂了优先查腾讯/芒果两站。",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -7,6 +7,36 @@
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
+    },
+    {
+      "key": "qy_tx_2K",
+      "name": "🐧┃腾讯┃2K",
+      "type": 3,
+      "api": "http://cuncu.qyys.top/public/uploads/20260002/drpy2.min.js",
+      "ext": "http://cuncu.qyys.top/public/uploads/20260002/2026091000002K.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qy_mg_2K",
+      "name": "🥭┃芒果┃2K",
+      "type": 3,
+      "api": "http://cuncu.qyys.top/public/uploads/20260001/drpy2.min.js",
+      "ext": "http://cuncu.qyys.top/public/uploads/20260001/2026000002.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "drpy_js_cupfox",
+      "name": "🦊┃茶杯狐┃2K",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/qiyece/admin1/raw/master/lib/drpy2.min.js",
+      "ext": "https://raw.giteeusercontent.com/qiyece/admin1/raw/master/gulugulu.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "豪华资源",
@@ -357,6 +387,16 @@
         "伦理片",
         "短剧"
       ]
+    },
+    {
+      "key": "csp_XBPQ_hjkk",
+      "name": "🇰🇷┃韩剧┃看看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://raw.giteeusercontent.com/qiyece/java/raw/master/韩剧看看.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_星辰",
