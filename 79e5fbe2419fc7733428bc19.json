@@ -192,6 +192,21 @@
       }
     },
     {
+      "key": "csp_Yidong4K",
+      "name": "☁️┃云端┃4K①",
+      "type": 3,
+      "api": "csp_Yidong4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/zjcjb/cfg-4671b09b3c07/main/yidong4k.jar;md5;dd81655600bf2ce601bb6786e4d9ce68",
+      "ext": {
+        "host": "https://323433ssdfd.top",
+        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2"
+      }
+    },
+    {
       "key": "索尼",
       "name": "🛸┃索尼┃2K",
       "type": 1,
