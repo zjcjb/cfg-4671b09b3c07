@@ -1,5 +1,5 @@
 {
-  "warningText": "维护版 2026-11-04：新增4站(腾讯2K/芒果2K/茶杯狐2K/韩剧看看，拆自七月影视，已验可达)。cuncu.qyys.top 为七月单点中转，挂了优先查腾讯/芒果两站。",
+  "warningText": "维护版 2026-11-04：新增4站(腾讯2K/芒果2K/茶杯狐2K/韩剧看看，拆自七月影视，已验可达)。cuncu.qyys.top 为七月单点中转，挂了优先查腾讯/芒果两站。；2026-11-06 已移除网盘类源（玩偶/原盘/花卷/至臻，TVBox 播放不了）",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -144,52 +144,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/蚂蚁磁力.json"
-    },
-    {
-      "key": "AiNewWogg",
-      "name": "💓┃玩偶┃4K",
-      "type": 3,
-      "api": "csp_AiNewWoggGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/10/26/837a77b77fc98aba6b97856944e94d7c.jpg;md5;722d5c1bdcb1b38fc62874941e060d6b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "AiNewZhiNan4K",
-      "name": "💓┃原盘┃4K",
-      "type": 3,
-      "api": "csp_AiNewZhiNan4KGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/10/26/837a77b77fc98aba6b97856944e94d7c.jpg;md5;722d5c1bdcb1b38fc62874941e060d6b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "AiNewHuaJuan",
-      "name": "💓┃花卷┃4K",
-      "type": 3,
-      "api": "csp_AiNewHuaJuanGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/10/26/837a77b77fc98aba6b97856944e94d7c.jpg;md5;722d5c1bdcb1b38fc62874941e060d6b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zhizhen",
-      "name": "📂至臻┃4K极速",
-      "type": 3,
-      "api": "csp_PantaAmns",
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://zhizhenpan.fun"
-        ]
-      }
     },
     {
       "key": "csp_Yidong4K",
