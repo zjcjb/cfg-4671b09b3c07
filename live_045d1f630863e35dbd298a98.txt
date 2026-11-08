@@ -69,7 +69,6 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws#http://107.150.60.122/live/xjws.m3u8
 西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://cssbyd.imwork.net:8082/hls/46/index.m3u8#http://107.150.60.122/live/xzws.m3u8
 河北4K,https://event.pull.hebtv.com/live/live101.m3u8
-河北卫视,http://107.150.60.122/live/hewshd.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 浙江经视,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
@@ -81,7 +80,6 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 凤凰卫视中文台,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8#https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8#http://iactive-clink.com:8081/live/111ztxw.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
@@ -171,7 +169,6 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws#http://107.150.60.122/live/xjws.m3u8
 西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://cssbyd.imwork.net:8082/hls/46/index.m3u8#http://107.150.60.122/live/xzws.m3u8
 河北4K,https://event.pull.hebtv.com/live/live101.m3u8
-河北卫视,http://107.150.60.122/live/hewshd.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
 
 浙江地方台,#genre#
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
@@ -187,7 +184,6 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 港澳台专区,#genre#
 凤凰卫视中文台,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8#https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8#http://iactive-clink.com:8081/live/111ztxw.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
