@@ -190,7 +190,7 @@
       "key": "360资源",
       "name": "⚡┃360┃极速",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/",
+      "api": "https://www.360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -251,7 +251,7 @@
       "key": "索尼",
       "name": "🛸┃索尼┃2K",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -354,7 +354,7 @@
       "key": "豪华资源",
       "name": "🥬┃豪华┃2K",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -400,7 +400,7 @@
       "key": "cjzy_暴风资源",
       "name": "🎈┃暴风┃影视",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
       "categories": [
         "电影片",
         "动作片",
@@ -411,7 +411,6 @@
         "剧情片",
         "战争片",
         "纪录片",
-        "理论片",
         "连续剧",
         "国产剧",
         "欧美剧",
@@ -441,7 +440,10 @@
         "现代言情",
         "反转爽文",
         "女恋总裁"
-      ]
+      ],
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "qy_tx_2K",
