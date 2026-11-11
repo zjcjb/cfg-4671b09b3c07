@@ -1,5 +1,5 @@
 {
-  "warningText": "维护版 2026-11-04：新增4站(腾讯2K/芒果2K/茶杯狐2K/韩剧看看，拆自七月影视，已验可达)。cuncu.qyys.top 为七月单点中转，挂了优先查腾讯/芒果两站。；2026-11-06 已移除网盘类源（玩偶/原盘/花卷/至臻，TVBox 播放不了）；2026-11-11 新增「☁️┃布布┃云端」(csp_YunDuo，七月同款，302433ssdfd.top 多多影视接口，资源量远大于旧云端4K①)",
+  "warningText": "维护版 2026-11-04：新增4站(腾讯2K/芒果2K/茶杯狐2K/韩剧看看，拆自七月影视，已验可达)。cuncu.qyys.top 为七月单点中转，挂了优先查腾讯/芒果两站。；2026-11-06 已移除网盘类源（玩偶/原盘/花卷/至臻，TVBox 播放不了）；2026-11-11 移除「☁️┃云端┃4K①」(csp_Yidong4K：仅617条小库、热词命中率极低、播放为139云盘分享)",
   "sites": [
     {
       "key": "电影天堂资源",
@@ -464,21 +464,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Yidong4K",
-      "name": "☁️┃云端┃4K①",
-      "type": 3,
-      "api": "csp_Yidong4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/zjcjb/cfg-4671b09b3c07/main/yidong4k.jar;md5;dd81655600bf2ce601bb6786e4d9ce68",
-      "ext": {
-        "host": "https://323433ssdfd.top",
-        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2"
-      }
     },
     {
       "key": "布布",
