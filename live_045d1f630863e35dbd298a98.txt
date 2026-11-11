@@ -84,7 +84,7 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
-经典香港电影,http://mg.cttv.vip/625703337#http://45.78.61.93:1234/625703337
+经典香港电影,http://mg.cttv.vip/625703337
 翡翠台,http://r.jdshipin.com/62WM7
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 CBS News,https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master_2.m3u8
@@ -187,7 +187,7 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
-经典香港电影,http://mg.cttv.vip/625703337#http://45.78.61.93:1234/625703337
+经典香港电影,http://mg.cttv.vip/625703337
 翡翠台,http://r.jdshipin.com/62WM7
 
 国外频道,#genre#
