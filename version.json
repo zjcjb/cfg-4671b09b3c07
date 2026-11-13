@@ -1,0 +1,13 @@
+{
+  "code": 4,
+  "name": "1.2",
+  "notes": "在线升级首发：设置页可检查更新、自动下载并拉起安装",
+  "size": 23137404,
+  "md5": "f086e4ed14e58125e1fb93d9a923e27a",
+  "parts": [
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.2.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.2.apk.002"
+  ],
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.2.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.2.apk.002"
+}
