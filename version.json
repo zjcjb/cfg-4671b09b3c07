@@ -1,13 +1,13 @@
 {
-  "code": 3,
-  "name": "1.2",
-  "notes": "在线升级上线：设置页「检查更新」自动下载并拉起安装；点播订阅显示 9/23 站可用（14 站需 TVBox 引擎）",
-  "size": 23141500,
-  "md5": "26a5d2905cbd005418821043e41a6108",
+  "code": 4,
+  "name": "1.3",
+  "notes": "修复：进度条可拖动快进快退 / 官方片单空白重试补拉 / 采集站赌博广告过滤",
+  "size": 23470118,
+  "md5": "c37f431d281758d9f46b99dd7d0b562c",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.2-26a5d290.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.2-26a5d290.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.3-c37f431d.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.3-c37f431d.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.2-26a5d290.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.2-26a5d290.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.3-c37f431d.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-1.3-c37f431d.apk.002"
 }
