@@ -1,13 +1,13 @@
 {
-  "code": 4,
-  "name": "4.0",
-  "notes": "修复：进度条可拖动快进快退 / 官方片单空白重试补拉 / 采集站赌博广告过滤（命名规范 v4.0）",
-  "size": 23470118,
-  "md5": "0043c2a928b9f17eef6c4d1036de0812",
+  "code": 5,
+  "name": "5.0",
+  "notes": "修复：遥控器导航卡顿/焦点乱跳（分区行列网格+消除重排）、TV 字号放大、播放右键默认快进+缓冲/暂停中央反馈",
+  "size": 23556205,
+  "md5": "1bafbbd4d139506c163a1395808830d7",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-4.0-0043c2a9.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-4.0-0043c2a9.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-5.0-1bafbbd4.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-5.0-1bafbbd4.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-4.0-0043c2a9.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-4.0-0043c2a9.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-5.0-1bafbbd4.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-5.0-1bafbbd4.apk.002"
 }
