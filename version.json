@@ -1,13 +1,13 @@
 {
-  "code": 7,
-  "name": "7.0",
-  "notes": "海报卡片精简（对标月光宝盒）：去掉海报上密集的年份/国家/类型/演员文字，只留片名+可选评分角标；收藏改左上角★角标；搜索资源页去meta只留站源角标；年份/国家/类型/演员等全部在详情页查看",
+  "code": 8,
+  "name": "8.0",
+  "notes": "首页排版与遥控导航修正：1)栏目字号24→19px，所有栏目一行显示不换行；2)海报网格flex居中(左右留白对称)，每张海报底部增加「年份·豆瓣评分」一行信息；3)首页遥控导航分两区(栏目T/海报P)，下从栏目落到海报首行同列、上从海报首行回到栏目，消除栏目与海报反复横跳",
   "size": 23470118,
-  "md5": "54a060582a3057c778e635ea3210fab4",
+  "md5": "71e0e429aab17ecc712b5c918ac71877",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-7.0-54a06058.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-7.0-54a06058.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-8.0-71e0e429.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-8.0-71e0e429.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-7.0-54a06058.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-7.0-54a06058.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-8.0-71e0e429.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-8.0-71e0e429.apk.002"
 }
