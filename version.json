@@ -1,13 +1,13 @@
 {
-  "code": 11,
-  "name": "11.0",
-  "notes": "搜索页遥控导航卡顿根治：①字母键盘改O(1)数组索引快路径，不再走全量几何快照；②候选索引按作用域缓存，MutationObserver只听childList且只失效变动所在root，去掉批量写tabindex的自激；③WebView软件渲染兜底限定为仅x86模拟器，真机恢复硬件加速（此前无差别生效导致3200x1440全屏CPU重绘）。雷电实测键盘平均2.05ms/格、首页通用路径2.15ms/格",
-  "size": 23474214,
-  "md5": "67d96feb8944355491e6e55a86901789",
+  "code": 12,
+  "name": "12.0",
+  "notes": "①焦点记忆：切栏目不再重建tabs DOM，焦点留在刚点的按钮上，可从上次位置继续导航；关面板兜底改回上次位置而非设置按钮；所有栏目(含电视直播)同屏显示。②直播卡顿根治：直播改直连原生HLS不走Java代理(实测代理下码率9Mbps突发+3~4s零流量锯齿)，全部线路直连失败才回退代理；修掉直播duration=-1时stall检测永久误报缓冲中；BUFFERING_END无条件复位并加10秒卡死自动换线；码率改用独立计时器",
+  "size": 23478310,
+  "md5": "f3141e2f0e319badefcbe792c5e31ca3",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-11.0-67d96feb.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-11.0-67d96feb.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-12.0-f3141e2f.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-12.0-f3141e2f.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-11.0-67d96feb.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-11.0-67d96feb.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-12.0-f3141e2f.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-12.0-f3141e2f.apk.002"
 }
