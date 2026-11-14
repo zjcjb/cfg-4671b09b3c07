@@ -1,13 +1,13 @@
 {
-  "code": 6,
-  "name": "6.0",
-  "notes": "快进/快退重写：左右键相对步进±10秒、按住累加连续快进、中央OSD显示目标时间+短进度条、松手提交；去除右键抢焦点的旧bug（对齐月光宝盒）",
+  "code": 7,
+  "name": "7.0",
+  "notes": "海报卡片精简（对标月光宝盒）：去掉海报上密集的年份/国家/类型/演员文字，只留片名+可选评分角标；收藏改左上角★角标；搜索资源页去meta只留站源角标；年份/国家/类型/演员等全部在详情页查看",
   "size": 23470118,
-  "md5": "d85c4c5ef6d515c91674610ec21bd188",
+  "md5": "54a060582a3057c778e635ea3210fab4",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-6.0-d85c4c5e.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-6.0-d85c4c5e.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-7.0-54a06058.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-7.0-54a06058.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-6.0-d85c4c5e.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-6.0-d85c4c5e.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-7.0-54a06058.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-7.0-54a06058.apk.002"
 }
