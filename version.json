@@ -1,13 +1,13 @@
 {
-  "code": 5,
-  "name": "5.0",
-  "notes": "修复：遥控器导航卡顿/焦点乱跳（分区行列网格+消除重排）、TV 字号放大、播放右键默认快进+缓冲/暂停中央反馈",
-  "size": 23556205,
-  "md5": "1bafbbd4d139506c163a1395808830d7",
+  "code": 6,
+  "name": "6.0",
+  "notes": "快进/快退重写：左右键相对步进±10秒、按住累加连续快进、中央OSD显示目标时间+短进度条、松手提交；去除右键抢焦点的旧bug（对齐月光宝盒）",
+  "size": 23470118,
+  "md5": "d85c4c5ef6d515c91674610ec21bd188",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-5.0-1bafbbd4.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-5.0-1bafbbd4.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-6.0-d85c4c5e.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-6.0-d85c4c5e.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-5.0-1bafbbd4.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-5.0-1bafbbd4.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-6.0-d85c4c5e.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-6.0-d85c4c5e.apk.002"
 }
