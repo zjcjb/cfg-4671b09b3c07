@@ -1,13 +1,13 @@
 {
-  "code": 13,
-  "name": "13.0",
-  "notes": "修复搜索结果页遥控器失灵：切页/站点回包重绘不再丢焦点；结果页顶栏-左侧站源-右侧海报分区导航；焦点丢失自动归位",
+  "code": 14,
+  "name": "14.0",
+  "notes": "修复搜索建议页左右行错开：两栏统一60px行距并首行对齐，键盘行与词条按行序号平移、最右键不再吞键；结果页海报片名改16px两行完整显示，季数不再被截断",
   "size": 23482406,
-  "md5": "2f49781af8cef0462b46ff0c3e4108ee",
+  "md5": "06c84a802c1e3d2bb1e9e1e7108a84e4",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-13.0-2f49781a.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-13.0-2f49781a.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-14.0-06c84a80.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-14.0-06c84a80.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-13.0-2f49781a.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-13.0-2f49781a.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-14.0-06c84a80.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-14.0-06c84a80.apk.002"
 }
