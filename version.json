@@ -1,13 +1,13 @@
 {
-  "code": 9,
-  "name": "9.0",
-  "notes": "播放页视觉统一：1)中央弹窗(快进/快退/缓冲/暂停)改为圆角金边暗红卡片，快进OSD新增相对偏移(+00:10)与金色进度条；2)控制条右侧空白区新增大号细体12小时制时钟(11:53 AM，无中文前缀，每秒刷新)；3)底部临时提示条统一为同款卡片",
+  "code": 10,
+  "name": "10.0",
+  "notes": "新增爱奇艺/优酷官方片单（内置 drpy2 规则，片单 40→60 条）；官方片单栏目改为自适应分类入口；修正站点能力说明文案",
   "size": 23474214,
-  "md5": "a11aa59d00c4b8a868a303e599c22957",
+  "md5": "aae7cb1adca07a3f4fb7f5c0dea392a3",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-9.0-a11aa59d.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-9.0-a11aa59d.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-10.0-aae7cb1a.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-10.0-aae7cb1a.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-9.0-a11aa59d.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-9.0-a11aa59d.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-10.0-aae7cb1a.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-10.0-aae7cb1a.apk.002"
 }
