@@ -1,13 +1,13 @@
 {
-  "code": 10,
-  "name": "10.0",
-  "notes": "新增爱奇艺/优酷官方片单（内置 drpy2 规则，片单 40→60 条）；官方片单栏目改为自适应分类入口；修正站点能力说明文案",
+  "code": 11,
+  "name": "11.0",
+  "notes": "搜索页遥控导航卡顿根治：①字母键盘改O(1)数组索引快路径，不再走全量几何快照；②候选索引按作用域缓存，MutationObserver只听childList且只失效变动所在root，去掉批量写tabindex的自激；③WebView软件渲染兜底限定为仅x86模拟器，真机恢复硬件加速（此前无差别生效导致3200x1440全屏CPU重绘）。雷电实测键盘平均2.05ms/格、首页通用路径2.15ms/格",
   "size": 23474214,
-  "md5": "aae7cb1adca07a3f4fb7f5c0dea392a3",
+  "md5": "67d96feb8944355491e6e55a86901789",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-10.0-aae7cb1a.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-10.0-aae7cb1a.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-11.0-67d96feb.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-11.0-67d96feb.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-10.0-aae7cb1a.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-10.0-aae7cb1a.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-11.0-67d96feb.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-11.0-67d96feb.apk.002"
 }
