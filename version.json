@@ -1,13 +1,13 @@
 {
-  "code": 18,
-  "name": "15.3",
-  "notes": "修复点播赌博广告：重写 m3u8 广告分片过滤，覆盖量子站注入标记写在 DISC 前一行、暴风站 adjump 分片；实测暴风 3207→3180、量子 2406→2385，正片零误删",
+  "code": 19,
+  "name": "15.4",
+  "notes": "修复《12 12 12》dyttm3u8 线路赌博广告：新增极短 DISC 广告块识别，覆盖无关键词/无重复URL的 mixed.m3u8 广告体系，并补上片尾广告块；实测 794→785，跨广告点播放不中断，正片零误删",
   "size": 23486502,
-  "md5": "81a874f0521c1a2fcdf3e45c31ff6b5d",
+  "md5": "4e36d5fe083d97b898a75fe7f761a5c6",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.3-81a874f0.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.3-81a874f0.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.4-4e36d5fe.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.4-4e36d5fe.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.3-81a874f0.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.3-81a874f0.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.4-4e36d5fe.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.4-4e36d5fe.apk.002"
 }
