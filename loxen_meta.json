@@ -9,6 +9,7 @@
   "sha256": "5ab0be5a6b35bc92fd7fb4c38b317f6c387de080fe195876a0f99dc47f0c6093",
   "gz_kb": 1501.4,
   "quality": "lowBw sites excluded at build stage",
-  "note": "Loxen 每日源维护产物；Java 侧按 sha256 校验，CDN 返回旧文件时不写入",
-  "pushed_at": "2026-11-15 19:06:35"
+  "catalog_file": "loxen_catalog_5ab0be5a6b35.json.gz",
+  "prev_catalog_file": "",
+  "note": "Loxen 每日源维护产物；文件名带 sha 指纹，Java 侧按 sha256 校验"
 }
