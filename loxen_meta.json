@@ -1,15 +1,15 @@
 {
   "schema": "loxen.catalog/1",
-  "version": "10f3ce89467d",
-  "generated_at": "2026-11-15 19:13:52",
+  "version": "69c0d1c73684",
+  "generated_at": "2026-11-15 19:49:06",
   "items": 4094,
   "sep": 1383,
   "merged": 2711,
   "sites": 8,
-  "sha256": "10f3ce89467d3638a5d9c8f29dba89588f107142fcb306391e872a08dc239250",
-  "gz_kb": 1501.4,
+  "sha256": "69c0d1c736846573335f49172787c6ac21f6b501421d11857d8876c82145310f",
+  "gz_kb": 1501.5,
   "quality": "lowBw sites excluded at build stage",
-  "catalog_file": "loxen_catalog_10f3ce89467d.json.gz",
-  "prev_catalog_file": "loxen_catalog_5ab0be5a6b35.json.gz",
+  "catalog_file": "loxen_catalog_69c0d1c73684.json.gz",
+  "prev_catalog_file": "loxen_catalog_10f3ce89467d.json.gz",
   "note": "Loxen 每日源维护产物；文件名带 sha 指纹，Java 侧按 sha256 校验"
 }
