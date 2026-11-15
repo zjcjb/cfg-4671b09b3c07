@@ -1,13 +1,13 @@
 {
-  "code": 15,
-  "name": "15.0",
-  "notes": "院线热映改接聚玩盒子4K同源豆瓣电影榜单(实时热门+一周口碑+正在上映),官方rank顺序、满20条,换首页源不再变;官方片单加豆瓣榜单/采集站/localStorage四层兜底与加载提示,不再空白",
-  "size": 23482406,
-  "md5": "4f3dc74758217b6af07d76b2a0e04971",
+  "code": 16,
+  "name": "15.1",
+  "notes": "三个剧榜对比后保留官方口碑榜、淘汰综合tv_hot补足：华语/欧美/日韩改用官方分地区合集(tv_domestic/tv_american/tv_japanese+tv_korean)，日韩榜补全球口碑榜4条高分日韩剧做官方rank头部；四榜满20条、地区纯度20/20、零纪录片零动画、换首页源不变，榜单头部标注来源",
+  "size": 23486502,
+  "md5": "3d47d9dd301bc05634d1c0c91551871d",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.0-4f3dc747.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.0-4f3dc747.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.1-3d47d9dd.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.1-3d47d9dd.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.0-4f3dc747.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.0-4f3dc747.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.1-3d47d9dd.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.1-3d47d9dd.apk.002"
 }
