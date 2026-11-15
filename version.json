@@ -1,13 +1,13 @@
 {
-  "code": 16,
-  "name": "15.1",
-  "notes": "三个剧榜对比后保留官方口碑榜、淘汰综合tv_hot补足：华语/欧美/日韩改用官方分地区合集(tv_domestic/tv_american/tv_japanese+tv_korean)，日韩榜补全球口碑榜4条高分日韩剧做官方rank头部；四榜满20条、地区纯度20/20、零纪录片零动画、换首页源不变，榜单头部标注来源",
+  "code": 17,
+  "name": "15.2",
+  "notes": "推荐与官方片单合并为一个栏目，栏目文字放大并按屏宽自适应；官方片单接在推荐下拉前两屏；顺带滤掉推荐里的重复数字脏片名与纪录片",
   "size": 23486502,
-  "md5": "3d47d9dd301bc05634d1c0c91551871d",
+  "md5": "220e42a560e11264223cb6b67cc80f25",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.1-3d47d9dd.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.1-3d47d9dd.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.2-220e42a5.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.2-220e42a5.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.1-3d47d9dd.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.1-3d47d9dd.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.2-220e42a5.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.2-220e42a5.apk.002"
 }
