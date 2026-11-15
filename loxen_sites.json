@@ -1,0 +1,49 @@
+{
+  "schema": "loxen.short-source/1",
+  "name": "Loxen 短剧源",
+  "note": "独立维护，只读派生自主订阅 79e5 的 type1 站，绝不写回点播/直播订阅。栏目一律由本文件的 cats 白名单驱动，禁止用上游 ?ac=list 的 class 数组自动生成（会把已清理的成人别名引回来）。",
+  "generated_at": "2026-11-15 16:10:00",
+  "policy": {
+    "pages_large": 22,
+    "pages_mid": 16,
+    "pages_small": 8,
+    "large_threshold": 8000,
+    "mid_threshold": 500,
+    "page_size": 20,
+    "workers": 32,
+    "timeout": 5,
+    "keep_unknown": true,
+    "keep_horizontal": false,
+    "vertical_first": true,
+    "bad_class": ["伦理", "擦边", "三级", "写真", "福利", "里番", "两性", "成人", "课堂", "AV", "情色", "R级"],
+    "bad_title": ["伦理", "擦边", "三级", "写真", "福利", "里番", "两性", "成人", "课堂", "AV", "情色"],
+    "short_key": ["短剧", "爽文", "漫剧", "女频", "反转", "古装仙侠", "现代都市", "年代穿越", "脑洞悬疑", "成长逆袭"],
+    "exclude_cats": ["短片"],
+    "mirror_sites": ["sdzy", "suoni", "xsd", "xinlang", "hhzy"],
+    "low_bw_sites": ["sdzy", "suoni", "xsd"]
+  },
+  "sites": [
+    {"key": "bfzy",   "name": "暴风",     "api": "https://bfzyapi.com/api.php/provide/vod/",            "enabled": true, "cats": ["短剧大全", "反转爽文", "古装仙侠", "AI漫剧"]},
+    {"key": "xinlang","name": "新浪",     "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/", "enabled": true, "cats": ["短剧", "古装仙侠", "现代都市", "反转爽剧", "脑洞悬疑", "AI漫剧"]},
+    {"key": "dytt",   "name": "电影天堂", "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",     "enabled": true, "cats": ["短剧"]},
+    {"key": "mdzy",   "name": "魔都",     "api": "https://www.mdzyapi.com/api.php/provide/vod/",        "enabled": true, "cats": ["短剧", "AI漫剧"]},
+    {"key": "ffzy",   "name": "非凡",     "api": "http://cj.ffzyapi.com/api.php/provide/vod/",          "enabled": true, "cats": ["短剧"]},
+    {"key": "lzi",    "name": "量子",     "api": "http://cj.lziapi.com/api.php/provide/vod/",           "enabled": true, "cats": ["短剧", "AI漫剧"]},
+    {"key": "hhzy",   "name": "豪华",     "api": "https://hhzyapi.com/api.php/provide/vod/",            "enabled": true, "cats": ["短剧", "古装仙侠", "现代都市", "反转爽剧", "脑洞悬疑", "AI漫剧"]},
+    {"key": "sdzy",   "name": "闪电",     "api": "http://sdzyapi.com/api.php/provide/vod/",             "enabled": true, "cats": ["女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "漫剧", "爽文短剧"]},
+    {"key": "suoni",  "name": "索尼",     "api": "https://suoniapi.com/api.php/provide/vod/",           "enabled": true, "cats": ["爽文短剧", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "漫剧"]},
+    {"key": "360",    "name": "360",      "api": "https://360zy.com/api.php/provide/vod/",              "enabled": true, "cats": ["爽文短剧", "现代都市", "脑洞悬疑", "年代穿越", "古装仙侠", "反转爽剧", "女频恋爱", "成长逆袭"]},
+    {"key": "xsd",    "name": "索尼备用", "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",        "enabled": true, "cats": ["爽文短剧", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "漫剧"], "note": "2026-11-15 猎源新增：59 类 / total 125722 / 6 个短剧题材类，独立存活线路"}
+  ],
+  "candidates_tested": [
+    {"name": "旺旺短剧 www.wwzy.tv", "result": "超时，未入库"},
+    {"name": "旺旺短剧 wwzy.tv", "result": "超时，未入库"},
+    {"name": "香雅情短剧 74.120.175.78", "result": "超时，未入库"},
+    {"name": "短剧频道 box.ufuzi.com", "result": "中文路径需 URL 编码，未复测通过"},
+    {"name": "魔都资源2 moduzy.com", "result": "连接被重置"},
+    {"name": "麒麟资源 qilinzyz.com", "result": "返回非 JSON"},
+    {"name": "七七影视 qiqidys.com", "result": "连接被重置"},
+    {"name": "山海资源 zy.sh0o.cn", "result": "DNS 不解析"},
+    {"name": "索尼备用 xsd.sdzyapi.com", "result": "200 JSON，已入库"}
+  ]
+}
