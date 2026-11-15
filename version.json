@@ -1,13 +1,13 @@
 {
-  "code": 19,
-  "name": "15.4",
-  "notes": "修复《12 12 12》dyttm3u8 线路赌博广告：新增极短 DISC 广告块识别，覆盖无关键词/无重复URL的 mixed.m3u8 广告体系，并补上片尾广告块；实测 794→785，跨广告点播放不中断，正片零误删",
-  "size": 23486502,
-  "md5": "4e36d5fe083d97b898a75fe7f761a5c6",
+  "code": 20,
+  "name": "15.5",
+  "notes": "栏目改为焦点即切换（借鉴 TVBox osc / FongMi TV：onFocusChange + 200ms 防抖），快速划过只重绘一次；确定键改为立即切；修复延迟切换时焦点被销毁的边界",
+  "size": 23490598,
+  "md5": "31346c5a0321a7ddda92f4ae2aa56a00",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.4-4e36d5fe.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.4-4e36d5fe.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.5-31346c5a.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.5-31346c5a.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.4-4e36d5fe.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.4-4e36d5fe.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.5-31346c5a.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-15.5-31346c5a.apk.002"
 }
