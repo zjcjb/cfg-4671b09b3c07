@@ -1,13 +1,13 @@
 {
-  "code": 21,
-  "name": "16.0",
-  "notes": "双端同步：修复片尾广告块删除时误删 #EXT-X-ENDLIST 导致影片一开播即片尾（时长 0、从直播边缘起播）；点播源整体重建，剔除 5 个被 SNI 阻断的站，补入实测可播的 8 个源",
+  "code": 22,
+  "name": "16.1",
+  "notes": "接回 5 个被墙源（暴风/索尼/量子/新浪 API 经中转转发，播放码流仍直连，画质零损耗），点播源 8→13；手机版 3.0 同步",
   "size": 23490598,
-  "md5": "fd8ef533142685f654ad2df1eac18693",
+  "md5": "e0527e67c16d75fb53989f99bf374c14",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.0-fd8ef533.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.0-fd8ef533.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.1-e0527e67.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.1-e0527e67.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.0-fd8ef533.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.0-fd8ef533.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.1-e0527e67.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.1-e0527e67.apk.002"
 }
