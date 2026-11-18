@@ -1,13 +1,13 @@
 {
-  "code": 22,
-  "name": "16.1",
-  "notes": "接回 5 个被墙源（暴风/索尼/量子/新浪 API 经中转转发，播放码流仍直连，画质零损耗），点播源 8→13；手机版 3.0 同步",
+  "code": 23,
+  "name": "16.2",
+  "notes": "索尼顶首位（实测码率中位 2246-2294 kbps、最低 2142-2232，远优于原首位非凡的 874/356）；新增图片域中转，解决索尼海报域被墙导致的首页海报全裂；手机版 3.1 同步",
   "size": 23490598,
-  "md5": "e0527e67c16d75fb53989f99bf374c14",
+  "md5": "f593c80046d3246c9501c9721c934d30",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.1-e0527e67.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.1-e0527e67.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.2-f593c800.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.2-f593c800.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.1-e0527e67.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.1-e0527e67.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.2-f593c800.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.2-f593c800.apk.002"
 }
