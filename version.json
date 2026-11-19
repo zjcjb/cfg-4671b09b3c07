@@ -1,13 +1,13 @@
 {
-  "code": 25,
-  "name": "16.4",
-  "notes": "多中转冗余：内置 3 条 API 中转通道（公共 CF Worker + NAS 自建两条），启动并发体检取最快、请求失败自动降级、海报失败换通道重试；订阅新增红樱桃/极速/红牛 3 个独立源；双端同步",
-  "size": 23490598,
-  "md5": "de63e39bbbeed167eaa2468ddfbf877e",
+  "code": 26,
+  "name": "16.5",
+  "notes": "修复：启动体检的探测请求此前会误触发通道降级，导致开屏瞬间请求可能被引到未启用的 NAS 通道；现探测请求不参与降级判断。双端同步",
+  "size": 23494694,
+  "md5": "d41efee77b5fd4d77cac041f6ba2a179",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.4-de63e39b.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.4-de63e39b.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.5-d41efee7.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.5-d41efee7.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.4-de63e39b.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.4-de63e39b.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.5-d41efee7.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.5-d41efee7.apk.002"
 }
