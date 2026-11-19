@@ -1,13 +1,13 @@
 {
-  "code": 23,
-  "name": "16.2",
-  "notes": "索尼顶首位（实测码率中位 2246-2294 kbps、最低 2142-2232，远优于原首位非凡的 874/356）；新增图片域中转，解决索尼海报域被墙导致的首页海报全裂；手机版 3.1 同步",
+  "code": 24,
+  "name": "16.3",
+  "notes": "海报修复：闪电图床 shandianpic.vip 直连被墙，加入图片中转白名单（与索尼 snzypic.vip 同类问题）；双端同步",
   "size": 23490598,
-  "md5": "f593c80046d3246c9501c9721c934d30",
+  "md5": "f970516eb1f54950ed0504010c4f3e9f",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.2-f593c800.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.2-f593c800.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.3-f970516e.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.3-f970516e.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.2-f593c800.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.2-f593c800.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.3-f970516e.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.3-f970516e.apk.002"
 }
