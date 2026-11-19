@@ -1,13 +1,13 @@
 {
-  "code": 26,
-  "name": "16.5",
-  "notes": "修复：启动体检的探测请求此前会误触发通道降级，导致开屏瞬间请求可能被引到未启用的 NAS 通道；现探测请求不参与降级判断。双端同步",
+  "code": 27,
+  "name": "16.6",
+  "notes": "红果海报修复：其 vod_pic 有 3/6 来自 vod.xiguazyimg.com（直连被墙），加入图片中转白名单；另两个图域（芒果 CDN、ynztctv）直连正常。双端同步",
   "size": 23494694,
-  "md5": "d41efee77b5fd4d77cac041f6ba2a179",
+  "md5": "9f995711771deb0d03a76734406d3e0e",
   "parts": [
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.5-d41efee7.apk.001",
-    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.5-d41efee7.apk.002"
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.6-9f995711.apk.001",
+    "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.6-9f995711.apk.002"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.5-d41efee7.apk.001",
-  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.5-d41efee7.apk.002"
+  "url": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.6-9f995711.apk.001",
+  "url2": "https://fastly.jsdelivr.net/gh/zjcjb/sixiang-tv@main/build/sixiang-16.6-9f995711.apk.002"
 }
